@@ -1,0 +1,32 @@
+# Compiled class files
+*.class
+
+# Package distribution
+*.jar
+*.war
+*.ear
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+
+# Build directories
+bin/
+target/
+build/
+
+# Maven wrapper files
+.mvn/
+!mvn/wrapper/maven-wrapper.properties
+
+# Gradle wrapper files
+.gradle/
+build/
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
