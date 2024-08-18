@@ -25,16 +25,6 @@ public class Main {
 		if(IsGameFinished(board))
 			break;
 		}
-		
-		
-		
-		
-		
-        
-       
-				
-		
-		
 
 	}
 
