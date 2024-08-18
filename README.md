@@ -20,4 +20,5 @@ This repository contains the code for a simple Tic-Tac-Toe game implemented in J
       javac TicTacToe.java
 
 3. Run the game:
+   
       java TicTacToe
