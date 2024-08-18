@@ -4,8 +4,9 @@
 
 
 # Build directories
+.classpath
+.project
+.settings/
 bin/
-target/
-build/
 
 
